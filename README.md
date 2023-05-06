@@ -17,4 +17,4 @@ train.py corresponds to the prompt-tunning module.
 inference.py corresponds to the relation inference module.  
 
 # Introduction of Data
-Three different sets of dataset examples are provided in the this folder.  
+Three different datasets are provided in the this folder.  
