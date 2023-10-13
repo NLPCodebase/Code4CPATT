@@ -1,7 +1,7 @@
 # CPATT
-Incorporating Category Exclusivity for Prompt-based Event Relation Identification
+Prompt-based Event Relation Identification with Constrained Prefix ATTention Mechanism
 
-We propose a prompt-based method to identify the causal  and temporal relation and employ a Constrained Prefix Attention (CPATT) mechanism to ameliorate the prompt-tuning process.
+We propose a prompt-based method to identify the causal  and temporal relation and employ a Constrained Prefix ATTention (CPATT) mechanism to ameliorate the prompt-tuning process.
 
 # Introduction of Code
 We provide two different sets of codes for different datasets and experimental settings.  
