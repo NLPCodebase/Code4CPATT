@@ -17,7 +17,7 @@ train.py corresponds to the prompt-tunning module.
 inference.py corresponds to the relation inference module.  
 
 # Introduction of Data
-Three different datasets are provided in the this folder.  
+Three different datasets are provided in the data folder.  
 
 # Publication status
 Zhang H, Ke W, Zhang J, et al. Prompt-based event relation identification with Constrained Prefix ATTention mechanism[J]. Knowledge-Based Systems, 2023: 111072.
