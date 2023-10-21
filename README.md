@@ -18,3 +18,18 @@ inference.py corresponds to the relation inference module.
 
 # Introduction of Data
 Three different datasets are provided in the this folder.  
+
+# BibTex
+```
+@article{ZHANG2023111072,
+title = {Prompt-based event relation identification with Constrained Prefix ATTention mechanism},
+journal = {Knowledge-Based Systems},
+volume = {281},
+pages = {111072},
+year = {2023},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2023.111072},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705123008225},
+author = {Hang Zhang and Wenjun Ke and Jianwei Zhang and Zhizhao Luo and Hewen Ma and Zhen Luan and Peng Wang},
+}
+```
