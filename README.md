@@ -19,7 +19,8 @@ inference.py corresponds to the relation inference module.
 # Introduction of Data
 Three different datasets are provided in the this folder.  
 
-# BibTex
+# Publication status
+Zhang H, Ke W, Zhang J, et al. Prompt-based event relation identification with Constrained Prefix ATTention mechanism[J]. Knowledge-Based Systems, 2023: 111072.
 ```
 @article{ZHANG2023111072,
 title = {Prompt-based event relation identification with Constrained Prefix ATTention mechanism},
